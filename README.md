@@ -31,7 +31,10 @@ I’m a Full Stack Web developer passionate about making error-free websites wit
     <img src="https://github.com/rahatahmedrafi/rahatahmedrafi/blob/main/img/instagram.png?raw=true" alt="instagram" height="40" />
   </a>
   <a href="https://twitter.com/rahatahmedrafi" target="_blank">
-    <img src="https://github.com/rahatahmedrafi/rahatahmedrafi/blob/main/img/twitter.png?raw=true" alt="twitter" height="40" />
+    <img src="[https://github.com/rahatahmedrafi/rahatahmedrafi/blob/main/img/twitter.png](https://github.com/rahatahmedrafi/rahatahmedrafi/blob/46c1b78f624c8bc30700bd53cf2f7136a6fb1204/twitter.png)?raw=true" alt="twitter" height="40" />
+
+
+    
   </a>
   <a href="https://www.youtube.com/@rahatahmedrafi" target="_blank">
     <img src="https://github.com/rahatahmedrafi/rahatahmedrafi/blob/main/img/youtube.png?raw=true" alt="YouTube" height="40" />
