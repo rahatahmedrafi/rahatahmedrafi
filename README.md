@@ -1,5 +1,5 @@
 ## Hi, I'm Rahat Ahmed Rafi 👋
-[<img src='https://github.com/rahatahmedrafi/rahatahmedrafi/blob/main/img/bg.jpg?raw=true' alt='Rahat Ahmed Rafi'>](https://github.com/rahatahmedrafi/)
+[<img src='https://media.licdn.com/dms/image/v2/D4E16AQEwASdQzPLTcw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729814281404?e=1751500800&v=beta&t=ZlwFJ7_Gu7DOD62yOz6v0jPQQya55TAsSRQ515Kdt4c' alt='Rahat Ahmed Rafi'>](https://github.com/rahatahmedrafi/)
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
